@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://princeodame.com/sitemap.xml
+Host: princeodame.com
